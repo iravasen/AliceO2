@@ -1,0 +1,6 @@
+<map id="QATrackingResolution" name="QATrackingResolution">
+<area shape="rect" id="node2" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; TH2F \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="417,675,607,899"/>
+<area shape="rect" id="node11" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="745,403,975,612"/>
+<area shape="rect" id="node13" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; TH1F \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="985,675,1175,899"/>
+<area shape="rect" id="node6" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="187,189,376,340"/>
+</map>

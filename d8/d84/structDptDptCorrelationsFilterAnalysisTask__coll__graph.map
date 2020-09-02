@@ -1,0 +1,12 @@
+<map id="DptDptCorrelationsFilterAnalysisTask" name="DptDptCorrelationsFilterAnalysisTask">
+<area shape="rect" id="node2" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; int \&gt;\n||+ Configurable()\l+ operator int()\l+ operator&#45;\&gt;()\l}" alt="" coords="325,461,532,583"/>
+<area shape="rect" id="node4" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\&lt; T \&gt;\n||+ Configurable()\l+ operator T()\l+ operator&#45;\&gt;()\l}" alt="" coords="255,226,501,333"/>
+<area shape="rect" id="node9" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; float \&gt;\n||+ Configurable()\l+ operator float()\l+ operator&#45;\&gt;()\l}" alt="" coords="556,461,763,583"/>
+<area shape="rect" id="node11" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; TList \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1179,689,1369,913"/>
+<area shape="rect" id="node15" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="1582,204,1771,355"/>
+<area shape="rect" id="node19" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="937,417,1166,627"/>
+<area shape="rect" id="node6" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::AcceptedEvents \&gt;\n||}" alt="" coords="5,755,193,847"/>
+<area shape="rect" id="node7" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\&lt; T \&gt;\n||}" alt="" coords="29,483,252,561"/>
+<area shape="rect" id="node8" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::ScannedTracks \&gt;\n||}" alt="" coords="234,755,418,847"/>
+<area shape="rect" id="node10" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="726,241,777,318"/>
+</map>
